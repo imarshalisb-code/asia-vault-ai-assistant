@@ -1,0 +1,6 @@
+{
+  "name": "Specialized Urdu AI Assistant",
+  "description": "A multi-turn Gemini chatbot providing direct, concise answers in Urdu / Roman Urdu with custom roles and model selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
